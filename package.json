@@ -11,9 +11,15 @@
     "astro": "astro"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@astrojs/preact": "^3.0.0",
     "@astrojs/rss": "^3.0.0",
     "astro": "^3.1.1",
+=======
+    "@astrojs/preact": "^3.5.0",
+    "@astrojs/rss": "^4.0.7",
+    "astro": "^4.11.1",
+>>>>>>> 26beec7ec44fd12a591f039a13729702d575a273
     "preact": "^10.11.3"
   }
 }

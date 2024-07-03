@@ -18,5 +18,8 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+<<<<<<< HEAD
 # generated types
+=======
+>>>>>>> 26beec7ec44fd12a591f039a13729702d575a273
 .astro/
